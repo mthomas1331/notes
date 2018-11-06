@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
 
+  resources :notes
   root 'home#home'
 
   get 'contact', to:'home#contact'
