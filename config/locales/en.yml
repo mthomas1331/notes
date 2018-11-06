@@ -32,3 +32,26 @@
 en:
   app_title: My Notes
   app_description: A place where you can keep all of your notes.
+
+  home:
+    home:
+      title: My Notes home page
+      welcome: Welcome to my notes site!
+
+    contact:
+      title: Contact Us
+      contact_us: Complete the following form to get up in touch with us
+
+      name: "name:"
+      enter_name: Enter your Name
+      email: "email:"
+      enter_email: Enter your email address
+      telephone: "telephone:"
+      enter_telephone: Enter your telephone number
+      message: "message:"
+      enter_message: What do you want to say?
+      submit: Contact Us
+
+    request_contact:
+        no_email: You must supply an email address
+        email_sent: Thank you. We will be in touch shortly.
