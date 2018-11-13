@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
 
+  resources :tasks
   resources :notes
   root 'home#home'
 
